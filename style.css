@@ -1,0 +1,80 @@
+@font-face {
+    font-family: "myfont";
+    src: url("fonts/ProductSansBold.ttf");
+}
+
+body {
+    font-family: "myfont";
+    margin: 0;
+    background-color: rgb(249, 244, 239);
+}
+
+#headingI {
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 0em;
+    font-size: 45px;
+}
+
+#headingII {
+    text-align: center;
+    margin-top: 0em;
+    margin-bottom: 2.5em;
+    font-size: 45px;
+}
+
+button {
+    padding: 1em 1.5em;
+    border-radius: 2em;
+    background-color: antiquewhite;
+    margin-top: 1em;
+    font-size: 30px;
+    font-family: "myfont";
+    font-weight: 900;
+    border: none;
+}
+
+input {
+    padding: 1em 1.2em;
+    border-radius: 90%;
+    background-color: rgb(247, 227, 202);
+    margin-right: 0.5em;
+    border: none;
+    font-size: 30px;
+    font-family: "myfont";
+    width: 1.2em;
+    text-align: center;
+}
+
+#length {
+    margin-bottom: 0.3em;
+    font-size: 30px;
+}
+
+.main {
+    padding-left: 1.7em;
+}
+
+#msg {
+    margin-bottom: 0.5em;
+    font-size: 30px;
+}
+
+#msgg {
+    margin-top: 0.5em;
+    margin-bottom: 0.2em;
+    font-size: 24px;
+    text-align: center;
+}
+
+#emoji {
+    margin-top: 0.5em;
+    margin-bottom: 0.2em;
+    font-size: 80px;
+    text-align: center;
+}
+
+
+button:hover {
+    border: solid black;
+}
