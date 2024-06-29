@@ -28,7 +28,7 @@ button {
     border-radius: 2em;
     background-color: antiquewhite;
     margin-top: 1em;
-    font-size: 30px;
+    font-size: 28px;
     font-family: "myfont";
     font-weight: 900;
     border: none;
@@ -40,7 +40,7 @@ input {
     background-color: rgb(247, 227, 202);
     margin-right: 0.5em;
     border: none;
-    font-size: 30px;
+    font-size: 28px;
     font-family: "myfont";
     width: 1.2em;
     text-align: center;
@@ -70,7 +70,7 @@ input {
 #emoji {
     margin-top: 0.5em;
     margin-bottom: 0.2em;
-    font-size: 80px;
+    font-size: 70px;
     text-align: center;
 }
 
